@@ -40,7 +40,6 @@ DAX (Data Analysis Expressions): Used to create custom measures and metrics for 
 Power Query: Initial data exploration and basic cleaning before integration with Power BI.
 
 # Insights & Recommendations:
-![Sales Dashboard](https://github.com/Aahil-Hussain/5G-Sales-Insights/blob/main/5G%20Sales%20Insights-1.png)
-
+[![Sales Dashboard](https://github.com/Aahil-Hussain/Atliq-Grands-Financial-Analysis/blob/main/Atliq%20Grands%20Financial%20Analysis-1.png)
 
 The dashboard and insights provided give Atliq Grands’ management a comprehensive view of their business performance, helping them take actionable steps towards regaining market share and improving revenue streams in the highly competitive luxury hotel market.
