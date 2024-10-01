@@ -1,4 +1,5 @@
 # Atliq-Grands-Financial-Analysis
+![Excel](https://img.shields.io/badge/Data-Excel-green)
 
 
 # Problem Statement:
