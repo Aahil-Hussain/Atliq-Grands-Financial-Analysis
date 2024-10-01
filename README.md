@@ -39,10 +39,24 @@ Power BI: For data modeling, DAX-based calculations, and dashboard creation.
 DAX (Data Analysis Expressions): Used to create custom measures and metrics for deeper data insights.
 Power Query: Initial data exploration and basic cleaning before integration with Power BI.
 
+
 # Insights & Recommendations:
+
+
 ![Sales Dashboard](https://github.com/Aahil-Hussain/Atliq-Grands-Financial-Analysis/blob/main/Atliq%20Grands%20Financial%20Analysis-1.png)
+
 ![Sales Dashboard](https://github.com/Aahil-Hussain/Atliq-Grands-Financial-Analysis/blob/main/Atliq%20Grands%20Financial%20Analysis-2.png)
+
 ![Sales Dashboard](https://github.com/Aahil-Hussain/Atliq-Grands-Financial-Analysis/blob/main/Atliq%20Grands%20Financial%20Analysis-3.png)
 
+* Room Preference: Guests show a strong preference for ELITE Rooms, while Presidential Rooms have the highest occupancy rate.
+
+* Revenue Share: Luxury hotels contribute 61.61% of the total revenue, highlighting their importance to the overall business performance.
+
+* Underperforming Chain: Unlike other successful hotel chains, ATLIQ SEASON is struggling to generate significant revenue. This may point to management issues, requiring closer evaluation to improve returns.
+
+* Unreported Sources: 41% of the bookings are coming from unreported sources. Atliq needs to identify these sources to optimize and better target its marketing strategy for improved customer acquisition.
+
+* Room Type Performance: Elite room type had the highest successful bookings at 49,000, wherein Standard room type had 38,000 successful bookings.
 
 The dashboard and insights provided give Atliq Grands’ management a comprehensive view of their business performance, helping them take actionable steps towards regaining market share and improving revenue streams in the highly competitive luxury hotel market.
