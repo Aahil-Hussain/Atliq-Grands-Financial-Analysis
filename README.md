@@ -1,5 +1,6 @@
 # Atliq-Grands-Financial-Analysis
 - [Excel Data](./data/)
+ [Data: sales_data.xlsx](sales_data.xlsx)
 
 
 # Problem Statement:
