@@ -42,12 +42,8 @@ Power Query: Initial data exploration and basic cleaning before integration with
 
 # Insights & Recommendations:
 
+![Sales Performance](https://github.com/username/repository/blob/main/images/sales_performance.png)
 
-![Sales Dashboard](https://github.com/Aahil-Hussain/Atliq-Grands-Financial-Analysis/blob/main/Atliq%20Grands%20Financial%20Analysis-1.png)
-
-![Sales Dashboard](https://github.com/Aahil-Hussain/Atliq-Grands-Financial-Analysis/blob/main/Atliq%20Grands%20Financial%20Analysis-2.png)
-
-![Sales Dashboard](https://github.com/Aahil-Hussain/Atliq-Grands-Financial-Analysis/blob/main/Atliq%20Grands%20Financial%20Analysis-3.png)
 
 * Room Preference: Guests show a strong preference for ELITE Rooms, while Presidential Rooms have the highest occupancy rate.
 
