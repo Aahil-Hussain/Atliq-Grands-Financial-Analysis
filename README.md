@@ -36,7 +36,9 @@ Actionable Insights: Highlighted areas where Atliq Grands could improve market p
 
 # Tools and Technologies:
 Power BI: For data modeling, DAX-based calculations, and dashboard creation.
+
 DAX (Data Analysis Expressions): Used to create custom measures and metrics for deeper data insights.
+
 Power Query: Initial data exploration and basic cleaning before integration with Power BI.
 
 
