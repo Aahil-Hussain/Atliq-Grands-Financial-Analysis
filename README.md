@@ -1,4 +1,4 @@
-# Atliq-Grands-Financial-Analysis
+# Atliq-Grands-Financial-Analysis 
 
 # Problem Statement:
 Atliq Grands, a luxury hotel chain operating five-star hotels across India for the past 20 years, is experiencing a decline in market share and revenue in the competitive luxury/business hotel sector. This decline is attributed to strategic moves by competitors and ineffective decision-making within the management. In a bid to recover, Atliq Grands' management has decided to leverage Business and Data Intelligence to regain their market share and revenue. However, due to a lack of an in-house data analytics team, they have outsourced the data analysis to a third-party provider.
